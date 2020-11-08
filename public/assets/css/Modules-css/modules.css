@@ -1504,6 +1504,7 @@
             .image img {
                 display: block;
                 width: 100%;
+                height: 150px;
             }
     
             .image.avatar48 {
